@@ -27,11 +27,13 @@ A **fine-tuned LLM** trained on proposal data to generate **structured, domain-s
 #### 🧩 **Equiax (Pirai Infotech)**  
 A **domain-specific RAG system** that extracts and synthesizes accurate responses for **legal, finance, and compliance** use cases.
 
-#### 🧪 **Test Case Generator (Pirai Infotech)**  
-A **RAG-based automation tool** that creates test scenarios from BRDs, validating **input sanitization** and **profanity filtering**.
+#### 🔍 **DeepPulse**  
+An iterative, **multi-agent research assistant** that autonomously searches the web, validates sources, and delivers **citation-backed analytical reports**.  
+Combines **retrieval**, **validation**, and **summarization** layers to ensure factual accuracy and trustworthy outputs.
 
-#### 🏏 **Wicket Detector (Pirai Infotech)**  
-A **computer vision system** built with **YOLO + OpenCV** to detect cricket wicket events across varied lighting and camera conditions.
+#### 🚢 **Sky Marine Services**  
+A **full-stack, Docker-ready maritime web app** featuring a **React frontend**, **FastAPI backend**, and **MongoDB database**.  
+Includes **service pages**, **online certificate verification**, and **dynamic contact form integrations** for users and admins.
 
 ---
 
